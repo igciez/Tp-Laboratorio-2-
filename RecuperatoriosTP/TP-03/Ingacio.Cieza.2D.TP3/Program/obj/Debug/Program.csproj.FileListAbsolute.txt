@@ -1,0 +1,48 @@
+C:\Users\Ignacio\source\repos\Ingacio.Cieza.2D.TP3\Program\bin\Debug\Program.exe.config
+C:\Users\Ignacio\source\repos\Ingacio.Cieza.2D.TP3\Program\bin\Debug\Program.exe
+C:\Users\Ignacio\source\repos\Ingacio.Cieza.2D.TP3\Program\bin\Debug\Program.pdb
+C:\Users\Ignacio\source\repos\Ingacio.Cieza.2D.TP3\Program\bin\Debug\Archivos.dll
+C:\Users\Ignacio\source\repos\Ingacio.Cieza.2D.TP3\Program\bin\Debug\Clases Abstractas.dll
+C:\Users\Ignacio\source\repos\Ingacio.Cieza.2D.TP3\Program\bin\Debug\Clases Instanciables.dll
+C:\Users\Ignacio\source\repos\Ingacio.Cieza.2D.TP3\Program\bin\Debug\Excepciones.dll
+C:\Users\Ignacio\source\repos\Ingacio.Cieza.2D.TP3\Program\bin\Debug\Archivos.pdb
+C:\Users\Ignacio\source\repos\Ingacio.Cieza.2D.TP3\Program\bin\Debug\Clases Abstractas.pdb
+C:\Users\Ignacio\source\repos\Ingacio.Cieza.2D.TP3\Program\bin\Debug\Clases Instanciables.pdb
+C:\Users\Ignacio\source\repos\Ingacio.Cieza.2D.TP3\Program\bin\Debug\Excepciones.pdb
+C:\Users\Ignacio\source\repos\Ingacio.Cieza.2D.TP3\Program\obj\Debug\Program.csprojAssemblyReference.cache
+C:\Users\Ignacio\source\repos\Ingacio.Cieza.2D.TP3\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\source\repos\Ingacio.Cieza.2D.TP3\Program\obj\Debug\Program.csproj.CopyComplete
+C:\Users\Ignacio\source\repos\Ingacio.Cieza.2D.TP3\Program\obj\Debug\Program.exe
+C:\Users\Ignacio\source\repos\Ingacio.Cieza.2D.TP3\Program\obj\Debug\Program.pdb
+C:\Users\user\Downloads\Programacion\UTN\Programacion 2\TP\TP 3\Tp-Laboratorio-2--master\Tp-Laboratorio-2--master\TP-03\Ingacio.Cieza.2D.TP3\Program\bin\Debug\Program.exe.config
+C:\Users\user\Downloads\Programacion\UTN\Programacion 2\TP\TP 3\Tp-Laboratorio-2--master\Tp-Laboratorio-2--master\TP-03\Ingacio.Cieza.2D.TP3\Program\bin\Debug\Program.exe
+C:\Users\user\Downloads\Programacion\UTN\Programacion 2\TP\TP 3\Tp-Laboratorio-2--master\Tp-Laboratorio-2--master\TP-03\Ingacio.Cieza.2D.TP3\Program\bin\Debug\Program.pdb
+C:\Users\user\Downloads\Programacion\UTN\Programacion 2\TP\TP 3\Tp-Laboratorio-2--master\Tp-Laboratorio-2--master\TP-03\Ingacio.Cieza.2D.TP3\Program\bin\Debug\Archivos.dll
+C:\Users\user\Downloads\Programacion\UTN\Programacion 2\TP\TP 3\Tp-Laboratorio-2--master\Tp-Laboratorio-2--master\TP-03\Ingacio.Cieza.2D.TP3\Program\bin\Debug\Clases Abstractas.dll
+C:\Users\user\Downloads\Programacion\UTN\Programacion 2\TP\TP 3\Tp-Laboratorio-2--master\Tp-Laboratorio-2--master\TP-03\Ingacio.Cieza.2D.TP3\Program\bin\Debug\Clases Instanciables.dll
+C:\Users\user\Downloads\Programacion\UTN\Programacion 2\TP\TP 3\Tp-Laboratorio-2--master\Tp-Laboratorio-2--master\TP-03\Ingacio.Cieza.2D.TP3\Program\bin\Debug\Excepciones.dll
+C:\Users\user\Downloads\Programacion\UTN\Programacion 2\TP\TP 3\Tp-Laboratorio-2--master\Tp-Laboratorio-2--master\TP-03\Ingacio.Cieza.2D.TP3\Program\bin\Debug\Archivos.pdb
+C:\Users\user\Downloads\Programacion\UTN\Programacion 2\TP\TP 3\Tp-Laboratorio-2--master\Tp-Laboratorio-2--master\TP-03\Ingacio.Cieza.2D.TP3\Program\bin\Debug\Clases Abstractas.pdb
+C:\Users\user\Downloads\Programacion\UTN\Programacion 2\TP\TP 3\Tp-Laboratorio-2--master\Tp-Laboratorio-2--master\TP-03\Ingacio.Cieza.2D.TP3\Program\bin\Debug\Clases Instanciables.pdb
+C:\Users\user\Downloads\Programacion\UTN\Programacion 2\TP\TP 3\Tp-Laboratorio-2--master\Tp-Laboratorio-2--master\TP-03\Ingacio.Cieza.2D.TP3\Program\bin\Debug\Excepciones.pdb
+C:\Users\user\Downloads\Programacion\UTN\Programacion 2\TP\TP 3\Tp-Laboratorio-2--master\Tp-Laboratorio-2--master\TP-03\Ingacio.Cieza.2D.TP3\Program\obj\Debug\Program.csprojAssemblyReference.cache
+C:\Users\user\Downloads\Programacion\UTN\Programacion 2\TP\TP 3\Tp-Laboratorio-2--master\Tp-Laboratorio-2--master\TP-03\Ingacio.Cieza.2D.TP3\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Programacion\UTN\Programacion 2\TP\TP 3\Tp-Laboratorio-2--master\Tp-Laboratorio-2--master\TP-03\Ingacio.Cieza.2D.TP3\Program\obj\Debug\Program.csproj.CopyComplete
+C:\Users\user\Downloads\Programacion\UTN\Programacion 2\TP\TP 3\Tp-Laboratorio-2--master\Tp-Laboratorio-2--master\TP-03\Ingacio.Cieza.2D.TP3\Program\obj\Debug\Program.exe
+C:\Users\user\Downloads\Programacion\UTN\Programacion 2\TP\TP 3\Tp-Laboratorio-2--master\Tp-Laboratorio-2--master\TP-03\Ingacio.Cieza.2D.TP3\Program\obj\Debug\Program.pdb
+C:\Users\user\Desktop\Ingacio.Cieza.2D.TP3\Program\bin\Debug\Program.exe.config
+C:\Users\user\Desktop\Ingacio.Cieza.2D.TP3\Program\bin\Debug\Program.exe
+C:\Users\user\Desktop\Ingacio.Cieza.2D.TP3\Program\bin\Debug\Program.pdb
+C:\Users\user\Desktop\Ingacio.Cieza.2D.TP3\Program\bin\Debug\Archivos.dll
+C:\Users\user\Desktop\Ingacio.Cieza.2D.TP3\Program\bin\Debug\Clases Abstractas.dll
+C:\Users\user\Desktop\Ingacio.Cieza.2D.TP3\Program\bin\Debug\Clases Instanciables.dll
+C:\Users\user\Desktop\Ingacio.Cieza.2D.TP3\Program\bin\Debug\Excepciones.dll
+C:\Users\user\Desktop\Ingacio.Cieza.2D.TP3\Program\bin\Debug\Archivos.pdb
+C:\Users\user\Desktop\Ingacio.Cieza.2D.TP3\Program\bin\Debug\Clases Abstractas.pdb
+C:\Users\user\Desktop\Ingacio.Cieza.2D.TP3\Program\bin\Debug\Clases Instanciables.pdb
+C:\Users\user\Desktop\Ingacio.Cieza.2D.TP3\Program\bin\Debug\Excepciones.pdb
+C:\Users\user\Desktop\Ingacio.Cieza.2D.TP3\Program\obj\Debug\Program.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Ingacio.Cieza.2D.TP3\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Ingacio.Cieza.2D.TP3\Program\obj\Debug\Program.csproj.CopyComplete
+C:\Users\user\Desktop\Ingacio.Cieza.2D.TP3\Program\obj\Debug\Program.exe
+C:\Users\user\Desktop\Ingacio.Cieza.2D.TP3\Program\obj\Debug\Program.pdb

@@ -1,0 +1,18 @@
+C:\Users\user\Downloads\Programacion\UTN\Programacion 2\TP\TP 3\Tp-Laboratorio-2--master\Tp-Laboratorio-2--master\TP-03\Ingacio.Cieza.2D.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\user\Downloads\Programacion\UTN\Programacion 2\TP\TP 3\Tp-Laboratorio-2--master\Tp-Laboratorio-2--master\TP-03\Ingacio.Cieza.2D.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\user\Downloads\Programacion\UTN\Programacion 2\TP\TP 3\Tp-Laboratorio-2--master\Tp-Laboratorio-2--master\TP-03\Ingacio.Cieza.2D.TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\user\Downloads\Programacion\UTN\Programacion 2\TP\TP 3\Tp-Laboratorio-2--master\Tp-Laboratorio-2--master\TP-03\Ingacio.Cieza.2D.TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\user\Downloads\Programacion\UTN\Programacion 2\TP\TP 3\Tp-Laboratorio-2--master\Tp-Laboratorio-2--master\TP-03\Ingacio.Cieza.2D.TP3\Clases Abstractas\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
+C:\Users\user\Downloads\Programacion\UTN\Programacion 2\TP\TP 3\Tp-Laboratorio-2--master\Tp-Laboratorio-2--master\TP-03\Ingacio.Cieza.2D.TP3\Clases Abstractas\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Programacion\UTN\Programacion 2\TP\TP 3\Tp-Laboratorio-2--master\Tp-Laboratorio-2--master\TP-03\Ingacio.Cieza.2D.TP3\Clases Abstractas\obj\Debug\EntidadesAbstractas.csproj.CopyComplete
+C:\Users\user\Downloads\Programacion\UTN\Programacion 2\TP\TP 3\Tp-Laboratorio-2--master\Tp-Laboratorio-2--master\TP-03\Ingacio.Cieza.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\user\Downloads\Programacion\UTN\Programacion 2\TP\TP 3\Tp-Laboratorio-2--master\Tp-Laboratorio-2--master\TP-03\Ingacio.Cieza.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
+C:\Users\user\Desktop\Ingacio.Cieza.2D.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\user\Desktop\Ingacio.Cieza.2D.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\user\Desktop\Ingacio.Cieza.2D.TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\user\Desktop\Ingacio.Cieza.2D.TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\user\Desktop\Ingacio.Cieza.2D.TP3\Clases Abstractas\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Ingacio.Cieza.2D.TP3\Clases Abstractas\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Ingacio.Cieza.2D.TP3\Clases Abstractas\obj\Debug\EntidadesAbstractas.csproj.CopyComplete
+C:\Users\user\Desktop\Ingacio.Cieza.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\user\Desktop\Ingacio.Cieza.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
