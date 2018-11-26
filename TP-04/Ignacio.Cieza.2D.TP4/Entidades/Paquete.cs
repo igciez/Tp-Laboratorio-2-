@@ -48,7 +48,7 @@ namespace Entidades
             }
             set
             {
-                this.DireccionEntrega = value;
+                this.direccionEntrega = value;
             }
         }
 
@@ -108,7 +108,7 @@ namespace Entidades
         {
             Paquete paquete = (Paquete)elemento;
 
-            return string.Format("{0} para {1}", paquete.trackingID, paquete.direccionEntrega);            
+            return string.Format("{0} para {1}\r\n", paquete.trackingID, paquete.direccionEntrega);            
         }
 
         /// <summary>
@@ -131,7 +131,7 @@ namespace Entidades
             {
                 switch (this.estado)
                 {
-                    case EEstado.Ingresado:                        
+                    case EEstado.Ingresado:
                         System.Threading.Thread.Sleep(4000);
                         this.estado = EEstado.EnViaje;
                         this.InformarEstado(this, eventArgs);
@@ -140,7 +140,7 @@ namespace Entidades
                         System.Threading.Thread.Sleep(4000);
                         this.estado = EEstado.Entregado;
                         this.InformarEstado(this, eventArgs);
-                        break;                  
+                        break;
                     default:
                         break;
                 }
@@ -148,7 +148,7 @@ namespace Entidades
             if (this.estado == EEstado.Entregado)
             {
                 PaqueteDAO.Insertar(this);
-            }          
+            }
         }
 
         #endregion

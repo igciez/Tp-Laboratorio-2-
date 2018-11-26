@@ -37,7 +37,6 @@ namespace MainCorreo
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
             this.correo.FinEntregas();
-
         }
 
         /// <summary>
@@ -99,13 +98,13 @@ namespace MainCorreo
                 switch (temporal.Estado)
                 {
                     case Paquete.EEstado.Ingresado:
-                        lstEstadoIngresado.Items.Add(temporal.ToString());
+                        lstEstadoIngresado.Items.Add(temporal);
                         break;
                     case Paquete.EEstado.EnViaje:
-                        lstEstadoEnViaje.Items.Add(temporal.ToString());
+                        lstEstadoEnViaje.Items.Add(temporal);
                         break;
                     case Paquete.EEstado.Entregado:
-                        lstEstadoEntregado.Items.Add(temporal.ToString());
+                        lstEstadoEntregado.Items.Add(temporal);
                         break;
                     default:
                         break;
