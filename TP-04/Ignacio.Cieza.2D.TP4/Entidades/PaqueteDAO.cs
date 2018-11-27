@@ -33,7 +33,7 @@ namespace Entidades
         {
             try
             {
-                string connectionStr = "Data Source = USER - HP\\SQLEXPRESS; Initial Catalog = correo - sp - 2017; Integrated Security = True";
+                string connectionStr = "Data Source=USER-HP//SQLEXPRESS;Initial Catalog=correo-sp-2017; Integrated Security=True";
 
                 PaqueteDAO.conexion = new SqlConnection(connectionStr);
                 PaqueteDAO.comando = new SqlCommand();                
