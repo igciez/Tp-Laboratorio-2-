@@ -124,27 +124,13 @@ namespace Entidades
         /// Genera un ciclo en el campo estado y guarda los datos en base de datos
         /// </summary>
         public void MockCicloDeVida()
-        {
-            EventArgs eventArgs = new EventArgs();
-
+        {            
             while (this.estado != EEstado.Entregado)
             {
-                switch (this.estado)
-                {
-                    case EEstado.Ingresado:
-                        System.Threading.Thread.Sleep(4000);
-                        this.estado = EEstado.EnViaje;
-                        this.InformarEstado(this, eventArgs);
-                        break;
-                    case EEstado.EnViaje:
-                        System.Threading.Thread.Sleep(4000);
-                        this.estado = EEstado.Entregado;
-                        this.InformarEstado(this, eventArgs);
-                        break;
-                    default:
-                        break;
-                }
-            }
+                Thread.Sleep(4000);
+                this.estado++;
+                this.InformarEstado.Invoke(null, null);
+            }            
             if (this.estado == EEstado.Entregado)
             {
                 PaqueteDAO.Insertar(this);
